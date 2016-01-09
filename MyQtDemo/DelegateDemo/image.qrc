@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/delete.png</file>
+        <file>image/BRG.png</file>
+        <file>image/del.png</file>
+        <file>image/down.png</file>
+        <file>image/top.png</file>
+        <file>image/up.png</file>
+        <file>image/meme.png</file>
+        <file>image/codenum.png</file>
+        <file>image/number.png</file>
+        <file>image/photo.png</file>
+    </qresource>
+</RCC>
